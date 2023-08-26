@@ -15,7 +15,7 @@
     2) 12 -> factors(1,2,3,4,6) -> sum(1+2+3+4+6) = 16 > 12 (Abundant)
     3) 8 -> factors(1,2,4) -> sum(1+2+4) = 7 < 8 (Deficient)
     ```
-    - [Solution]()
+    - [Solution](https://github.com/rushabhbarde/Syook-task/blob/main/Syook%20General%20Problems/isPerfect.js)
 
 3. How many trails to 1?
     - Take a positive integer x. If x is even, divide x by 2 to get x / 2. If x is odd, multiply x by 3 and add 1 to get 3x + 1. Repeat the process indefinitely. No matter which number you start with, you will always reach 1 eventually during the process.
@@ -38,7 +38,7 @@
  
     We got to 1 in 9 steps. So for input x = 12, the return value would be 9.
     ```
-    - [Solution]()
+    - [Solution](https://github.com/rushabhbarde/Syook-task/blob/main/Syook%20General%20Problems/trail.js)
 
 ### MEDIUM
 
@@ -56,7 +56,7 @@
     - A matrix may have zero or more values like these which are greater than or equal and less than or equal.
     - Your code should be able to provide a list of all the values for any given matrix. If no values are found it should return an empty list.
     - The matrix can have a different number of rows and columns (Non-square matrix).
-- [Solution]()
+- [Solution](https://github.com/rushabhbarde/Syook-task/blob/main/Syook%20General%20Problems/matrix.js)
 
 ### HARD
 
@@ -74,4 +74,4 @@
     Input -> n: 4, k: 3, g: 4, b: 0
     Output -> []
     ```
-    - [Solution]()
+    - [Solution](https://github.com/rushabhbarde/Syook-task/blob/main/Syook%20General%20Problems/nChai.js)
