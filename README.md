@@ -40,7 +40,7 @@
     ```
     - [Solution](https://github.com/rushabhbarde/Syook-task/blob/main/Syook%20General%20Problems/trail.js)
 
-### MEDIUM
+### Medium
 
 1. Greater than and less than in a matrix
     - Detect values in a matrix that is greater than or equal to every element in its row and less than or equal to every element in its column.
@@ -58,7 +58,7 @@
     - The matrix can have a different number of rows and columns (Non-square matrix).
 - [Solution](https://github.com/rushabhbarde/Syook-task/blob/main/Syook%20General%20Problems/matrix.js)
 
-### HARD
+### Hard
 
 2. n-Chai
     - You like chai very much and you want to drink exactly “n” cups of chai. You would be happy to drink more but you have exactly “n” chai bags, “g” of them are green, and “b” are black.
